@@ -1,0 +1,6 @@
+^<hypernym> seperti <hyponym> dan
+^<hyponym> adalah <hypernym> yang
+^<hyponym> adalah sebuah <hypernym>
+^<hyponym> merupakan <hypernym> yang
+^<hyponym> adalah <hypernym>
+^<hyponym> merupakan <hypernym>
